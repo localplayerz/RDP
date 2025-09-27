@@ -5,7 +5,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: windows-365
+    runs-on: windows-cloud
     timeout-minutes: 3600
 
     steps:
